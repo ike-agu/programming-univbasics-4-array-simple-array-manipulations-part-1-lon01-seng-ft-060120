@@ -12,9 +12,9 @@ def using_pop(array , string)
   
 end 
 
-def 
+def pop_with_args(array )
   
-  
+  array.pop[2]
   
 end 
 
