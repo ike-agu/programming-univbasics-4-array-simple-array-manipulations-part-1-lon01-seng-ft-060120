@@ -1,4 +1,4 @@
 def  using_strings (array , string)
-  array.push(string)
+  array.push("string")
 end 
 
